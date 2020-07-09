@@ -1,5 +1,6 @@
 # blankenship-RNAseq
 RNA-seq differential expression analyses on C. albicans.
+*Note: count_data has been removed.
 
 ## Repository Directories
 ### DGE_R_scripts
